@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 NUM1="126 127"
 NUM2="`seq 1 254`"
